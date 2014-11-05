@@ -17,10 +17,12 @@ What does this mean
 - ====
 Marinara Sauce
 ====
-This is a pretty powerful tool.  You can see all of your changes at one time.  
+This is a pretty powerful tool.  You can see all of your changes at one time.
+
 Why does she type so loud?  Ha ha ha ha ha
 ====
 Version Control is cool.
+
 ++I am a developer.
 +I think I am a developer.
 ++ Am I a developer?

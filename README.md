@@ -33,3 +33,15 @@ I am typing in Notepad++
 ++ Notepad++
 ##Cheese
 ====
+
+I am typing again in Notepadd ++
+====
+
+Hello world
+
+++ This is Derrick Reese Typing.
+====
+Little Caesar's Pizza is good.
+====
+++ Hot and Ready!!!
+====

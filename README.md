@@ -10,9 +10,9 @@ What are you looking At?
 
 What does this mean
 
-## Breadsticks
+## Bread sticks
 
-# Applesauce
+# Apple sauce
 - You know what I am thinking?
 - ====
 Marinara Sauce
@@ -26,3 +26,10 @@ Version Control is cool.
 ++I am a developer.
 +I think I am a developer.
 ++ Am I a developer?
+Hey, I updated this locally.
+
+I am typing in Notepad++
+====
+++ Notepad++
+##Cheese
+====
